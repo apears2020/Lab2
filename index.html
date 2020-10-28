@@ -3,14 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <script src="books.js"></script>
-    <script src="pizzas.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="booksandpizza.js"></script>
 </head>
 <body>
     <h1>Library books</h1>
-    <button onclick="allAboutFees()">Click here to see your late library fees</button>
+    <label for="lateDaysBooks">How many days late are your books?</label>
+    <input type="number" id="lateDaysBooks">
+    <br>
+    <label for="lateBooksAmount">How many books did you take out?</label>
+    <input type="number" id="lateBooksAmount">
+    <br>
+    <label for="lateDaysDVDs">How many days late are your DVDs?</label>
+    <input type="number" id="lateDaysDVDs">
+    <br>
+    <label for="lateDVDAmount">How many DVDs did you take out?</label>
+    <input type="number" id="lateDVDAmount">
+    <br>
+    <button id="button1">Click here to see how much you owe the library</button>
+    <br>
+    <p id="bookP"></p>
+    <br>
 
     <h1>Pizzas for your crew</h1>
-    <button onclick="allAboutPizzas()">Click here to see how much pizza will cost for everyone</button>
+    <label for="howManyPizzas">How many pizzas will you be ordering?</label>
+    <input type="number" id="howManyPizzas">
+    <br>
+    <label for="howManyToppings">How many extra toppings will you put on the pizza?</label>
+    <input type="number" id="howManyToppings">
+    <br>
+    <label for="howManyCrew">How many people are ordering pizza?</label>
+    <input type="number" id="howManyCrew">
+    <br>
+    <button id="button2">Click here to see how much pizza will cost per person</button>
+
 </body>
 </html>
