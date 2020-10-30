@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e4cf903-0932-4f8f-a6ed-77f0076f3cea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/booksandpizza.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+    <list default="true" id="0e4cf903-0932-4f8f-a6ed-77f0076f3cea" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booksandpizza.js" beforeDir="false" afterPath="$PROJECT_DIR$/booksandpizza.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +67,16 @@
       <workItem from="1603889703130" duration="3000" />
       <workItem from="1603897792220" duration="2000" />
       <workItem from="1603906431954" duration="200000" />
-      <workItem from="1603917031424" duration="4688000" />
+      <workItem from="1603917031424" duration="7021000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1603922771380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603922771380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +93,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="3300" y="275" key="FileChooserDialogImpl" timestamp="1603737718028">
       <screen x="2560" y="0" width="1920" height="1040" />
@@ -99,14 +110,15 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3343" y="225" key="Github.UntrackedFilesDialog/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1603740365649" />
-    <state x="3112" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603740374819">
-      <screen x="2560" y="0" width="1920" height="1040" />
-    </state>
-    <state x="3112" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1603740374819" />
-    <state x="1036" y="584" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603922682375">
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2" timestamp="1603922773644">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1036" y="584" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1603922682375" />
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1603922773644" />
+    <state x="3112" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1603740374819" />
+    <state x="1036" y="584" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603922721013">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1036" y="584" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1603922721013" />
     <state x="3337" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1603740370509" />
   </component>
 </project>
